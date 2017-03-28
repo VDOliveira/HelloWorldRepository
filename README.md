@@ -1,9 +1,8 @@
 //# HelloWorldRepository
 //Repository for beginning programing
-
 //Hi everybody!
+//This was my first Cpp Program, and I'm now learning to use Github.
 
-//This was my first Cpp Program, and I'm now learning to use Github. 
 #include <iostream>
 using namespace std;
 
@@ -33,7 +32,7 @@ int main()
 	}
 	else
 	{
-		cout << "first variable is smaller them second" << endl;
+		cout << "first variable is smaller then second" << endl;
 	}
 
 	
